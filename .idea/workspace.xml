@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bbcfd67-8101-4cf4-8e7e-c82d962541fb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/simpleWebappMaven/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpleWebappMaven/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpleWebappMaven/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpleWebappMaven/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpleWebappMaven/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpleWebappMaven/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpleWebappMaven/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpleWebappMaven/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpleWebappMaven/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpleWebappMaven/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpleWebappMaven/src/main/java/com/hetman/product/servlets/CreateProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpleWebappMaven/src/main/java/com/hetman/product/servlets/DisplayProductDetailsServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpleWebappMaven/src/main/webapp/product.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/simpleWebappMaven" />
+  </component>
+  <component name="ProjectId" id="1Yx6D1SJAkuRgS55NJzmpkhbTJh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bbcfd67-8101-4cf4-8e7e-c82d962541fb" name="Default Changelist" comment="" />
+      <created>1583871775670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583871775670</updated>
+      <workItem from="1583871788694" duration="2307000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="925" y="181" key="#Project_Structure" timestamp="1583874088501">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="925" y="181" key="#Project_Structure/0.0.1739.939@0.0.1739.939" timestamp="1583874088501" />
+    <state x="0" y="588" key="com.intellij.ide.util.TipDialog" timestamp="1583871801231">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="0" y="588" key="com.intellij.ide.util.TipDialog/0.0.1739.939@0.0.1739.939" timestamp="1583871801231" />
+  </component>
+</project>
